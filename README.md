@@ -1,5 +1,5 @@
 ## Overview
-This is a research project exploring how different tones of AI suggestions impact human writing. The project specifically examines the effects of positive and negative politeness strategies on user acceptance of AI-generated suggestions and their influence on their writing style. This github repository contains the code for the interface of the research project.
+This is a research project exploring how different tones of AI suggestions impact human writing. The project specifically examines the effects of positive and negative politeness strategies on user acceptance of AI-generated suggestions and their influence on their writing style. This repository contains the backend for the interface of the research project, including the pre- and post-research survey questionnaire, and the implementation of text auto completions. 
 
 ## Contents
 - [Features](#features)
